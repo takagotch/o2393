@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: https://takagotch.github.io/page85/
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -15,7 +15,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: takagotch
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
@@ -24,9 +24,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: takagotch
+    github:  takagotch
+    linkedIn: in/takagotch
     rss: rss
  
 
@@ -41,3 +41,4 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+

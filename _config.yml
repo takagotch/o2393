@@ -25,6 +25,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: takagotch
+    facebook: takagotch
     github:  takagotch
     linkedIn: in/takagotch
     rss: rss

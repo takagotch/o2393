@@ -18,7 +18,7 @@ texture:
   title: takagotch
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
-  style: yellow
+  style: blue
   showNav: false
   showPicker: true
   

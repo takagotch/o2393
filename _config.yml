@@ -39,6 +39,10 @@ texture:
 # Build settings
 theme: texture
 
+
+
+
+
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed

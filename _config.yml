@@ -18,9 +18,10 @@ texture:
   title: takagotch
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
-  style: black
+  style: yellow
   showNav: false
-  showPicker: true
+  showPicker: false
+  
 
   # generate social links in footer
   social_links:
@@ -37,8 +38,8 @@ texture:
 # - about.md
 
 # Build settings
-theme: texture
-  style: yellow
+# theme: texture
+#  style: yellow
 
 
 

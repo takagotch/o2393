@@ -2,8 +2,19 @@
 ---
 
 ```
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
 ```
 
+```
+```
+
+```
+```
+
+
+```
+```
 
 # texture
 
